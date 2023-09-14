@@ -17,7 +17,7 @@ The source codes for our extensive validation experiments on depth estimation, 3
   
 ## Results
 
-We release all the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMF-VIDEO and conventional multi-view video. For each scene, we reconstruct 81 dynamic depth map videos, 1 dynamic 3D point cloud video and synthesize 120 dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMF-VIDEO/tree/main/Results) folder.
+We release all the depth estimation, 3D reconstruction and novel view synthesis comparison results with 240x135 resolution between MVMF-VIDEO and conventional multi-view video. For each scene, we reconstruct 81 dynamic depth map videos, 1 dynamic 3D point cloud video and synthesize 120 dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMF-VIDEO/tree/main/Results) folder. The complete comparison results with 1920x1080 resolution will be released upon publication.
 
 ## Declare
 

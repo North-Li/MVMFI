@@ -8,6 +8,13 @@ The source codes for our extensive validation experiments on depth estimation, 3
 
 ## Environment
 
+- Python >= 3.7
+- PyTorch >= 1.4.0 is recommended
+- opencv-python = 4.5.1
+- matplotlib
+- tensorboard
+- pytorch_msssim
+  
 ## Results
 
-We release all the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMF-VIDEO and conventional multi-view video. For each scene, we reconstruct 81 dynamic depth map videos, 1 dynamic 3D point cloud video and synthesize 120 dynamic novel view videos.
+We release all the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMF-VIDEO and conventional multi-view video. For each scene, we reconstruct 81 dynamic depth map videos, 1 dynamic 3D point cloud video and synthesize 120 dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMF-VIDEO/tree/main/Code) folder.

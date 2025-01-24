@@ -21,4 +21,4 @@ We release all the depth estimation, 3D reconstruction and novel view synthesis 
 
 ## Declare
 
-This dataset and results cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via yangyou AT hust DOT edu DOT cn.
+This dataset and results cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via zhilong_li AT hust DOT edu DOT cn.

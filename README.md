@@ -3,13 +3,13 @@
 This dataset contains 630 defocus image sequences and corresponding ground-truth with 1920x1080 resolution captured from 7 scenens ("Meetingroom"scene, "Livingroom"scene, "Bathroom"scene, "Street"scene, "Furniture" scene, "Machine" scene and "Industrialparts"scene). At present, for each scene, we provide 81 multi-focus images at the first frame with 240x135 resolution for download. The complete dataset will be released upon publication.
 
 ## **🔴Supplementary Material
-<img src="https://github.com/North-Li/SYN-MVMF/blob/main/Multi-view%20multi-focus%20images.png" >
+<img src="https://github.com/North-Li/MVMFI/blob/main/Supplementary_Material.png" >
 
-## Code
+## **🔴Code for Depth Estimation, 3D Reconstruction, and Novel View Synthesis
 
 The source codes for our extensive validation experiments on depth estimation, 3D reconstruction and novel view synthesis tasks are now available. Please refer to the [Code](https://github.com/North-Li/MVMFI/tree/main/Code) folder.
 
-## Environment
+## **🔴Environment
 
 - Python >= 3.7
 - PyTorch >= 1.4.0 is recommended
@@ -18,9 +18,9 @@ The source codes for our extensive validation experiments on depth estimation, 3
 - tensorboard
 - pytorch_msssim
   
-## Results
+## **🔴Results of Depth Estimation, 3D Reconstruction, and Novel View Synthesis
 
-We release all the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMFI and conventional multi-view video. For each scene, we reconstruct 81 dynamic depth map videos, 1 dynamic 3D point cloud video and synthesize 120 dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMFI/tree/main/Results) folder. 
+We release the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMFI and conventional multi-view data. We reconstruct dynamic depth map videos, dynamic 3D point cloud video and synthesize dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMFI/tree/main/Results) folder. 
 
 ## Declare
 

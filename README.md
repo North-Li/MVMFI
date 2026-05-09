@@ -1,6 +1,9 @@
-## Dataset
+## **🔴Dataset
 
 This dataset contains 630 defocus image sequences and corresponding ground-truth with 1920x1080 resolution captured from 7 scenens ("Meetingroom"scene, "Livingroom"scene, "Bathroom"scene, "Street"scene, "Furniture" scene, "Machine" scene and "Industrialparts"scene). At present, for each scene, we provide 81 multi-focus images at the first frame with 240x135 resolution for download. The complete dataset will be released upon publication.
+
+## **🔴Supplementary Material
+<img src="https://github.com/North-Li/SYN-MVMF/blob/main/Multi-view%20multi-focus%20images.png" >
 
 ## Code
 

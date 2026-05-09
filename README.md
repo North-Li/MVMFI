@@ -1,6 +1,10 @@
 ## **🔴Dataset
 
-This dataset contains 630 defocus image sequences and corresponding ground-truth with 1920x1080 resolution captured from 7 scenens ("Meetingroom"scene, "Livingroom"scene, "Bathroom"scene, "Street"scene, "Furniture" scene, "Machine" scene and "Industrialparts"scene). At present, for each scene, we provide 81 multi-focus images at the first frame with 240x135 resolution for download. The complete dataset will be released upon publication.
+The complete dataset can be downloaded from Baidu Netdisk:
+
+链接(Share Link): [https://pan.baidu.com/s/1A-j8TWUATL5XVyPJwI20dw?pwd=agd2]            
+
+提取码(Extraction Code): agd2
 
 ## **🔴Supplementary Material
 <img src="https://github.com/North-Li/MVMFI/blob/main/Supplementary_Material.png" >
@@ -21,6 +25,17 @@ The source codes for our extensive validation experiments on depth estimation, 3
 ## **🔴Results of Depth Estimation, 3D Reconstruction, and Novel View Synthesis
 
 We release the depth estimation, 3D reconstruction and novel view synthesis comparison results between MVMFI and conventional multi-view data. We reconstruct dynamic depth map videos, dynamic 3D point cloud video and synthesize dynamic novel view videos. Please refer to the [Results](https://github.com/North-Li/MVMFI/tree/main/Results) folder. 
+
+#### If this work is helpful to you, please cite it as:
+```
+@INPROCEEDINGS{10647581,
+  author={Li, Zhilong and Wu, Kejun and Liu, Junhao and Liu, Qiong and Yang, You},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Multi-View Multi-Focus Image Fusion: A Novel Benchmark Dataset and Method}, 
+  year={2024},
+  pages={200-206},
+  doi={10.1109/ICIP51287.2024.10647581}}
+```
 
 ## Declare
 

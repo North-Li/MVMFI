@@ -7,6 +7,8 @@ The complete dataset can be downloaded from Baidu Netdisk:
 提取码(Extraction Code): j4p3
 
 ## **🔴Supplementary Material
+This paper is submitted to the "Dataset and Benchmark Track" of ICIP 2024. It primarily focuses on releasing and constructing a novel dynamic multi-view multi-focus image dataset, in order to provide rich data support for related downstream visual tasks such as multi-focus image fusion, depth estimation, and novel view synthesis. The following supplementary material is submitted together with the main manuscript to validate the characteristics and effectiveness of the proposed MVMFI dataset.
+
 <img src="https://github.com/North-Li/MVMFI/blob/main/Supplementary_Material.png" >
 
 ## **🔴Code for Depth Estimation, 3D Reconstruction, and Novel View Synthesis

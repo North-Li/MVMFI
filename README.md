@@ -1,6 +1,6 @@
 ## **🔴Dataset
 
-The complete dataset, including 2430 defocused image sequences and the corresponding 2430 all-in-focus ground-truth image sequences, can be downloaded from Baidu Netdisk:
+The complete dataset, including **2430 defocused image sequences** and the corresponding **2430 all-in-focus ground-truth image sequences**, can be downloaded from Baidu Netdisk:
 
 链接(Share Link): [https://pan.baidu.com/s/15TF2wd3vo2Ja9FZc6y4EkA?pwd=j4p3]            
 
